@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+#first{
+	background-color:green;
+	height:85px;
+	width:85px;
+}
+#second{
+	background-color:red;
+	height:85px;
+	width:85px;
+}
+#third{
+	background-color:blue;
+	height:85px;
+	width:85px;
+}
+.container{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
