@@ -15,7 +15,7 @@
 	height:85px;
 	width:85px;
 }
-.container{
+.holder{
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:center;
